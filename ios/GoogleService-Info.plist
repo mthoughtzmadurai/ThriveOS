@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>CLIENT_ID</key>
+	<string>641072727497-45p4v015p7ivibvmegdijcme9qso43v6.apps.googleusercontent.com</string>
+	<key>REVERSED_CLIENT_ID</key>
+	<string>com.googleusercontent.apps.641072727497-45p4v015p7ivibvmegdijcme9qso43v6</string>
+	<key>API_KEY</key>
+	<string>AIzaSyBIWw-2vEtHoS8VXdUrMftHvbLiHmdwws4</string>
+	<key>GCM_SENDER_ID</key>
+	<string>641072727497</string>
+	<key>PLIST_VERSION</key>
+	<string>1</string>
+	<key>BUNDLE_ID</key>
+	<string>com.fmt.thriveos</string>
+	<key>PROJECT_ID</key>
+	<string>thriveos</string>
+	<key>STORAGE_BUCKET</key>
+	<string>thriveos.appspot.com</string>
+	<key>IS_ADS_ENABLED</key>
+	<false></false>
+	<key>IS_ANALYTICS_ENABLED</key>
+	<false></false>
+	<key>IS_APPINVITE_ENABLED</key>
+	<true></true>
+	<key>IS_GCM_ENABLED</key>
+	<true></true>
+	<key>IS_SIGNIN_ENABLED</key>
+	<true></true>
+	<key>GOOGLE_APP_ID</key>
+	<string>1:641072727497:ios:a0dd72fd8820b6e4469418</string>
+	<key>DATABASE_URL</key>
+	<string>https://thriveos.firebaseio.com</string>
+</dict>
+</plist>
